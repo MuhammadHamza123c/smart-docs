@@ -1,0 +1,11 @@
+MovieID,Title,Genre,Rating,Year
+1,Inception,Sci-Fi,8.8,2010
+2,The Dark Knight,Action,9.0,2008
+3,Interstellar,Sci-Fi,8.6,2014
+4,Parasite,Thriller,8.6,2019
+5,Avengers: Endgame,Action,8.4,2019
+6,Titanic,Romance,7.8,1997
+7,The Godfather,Crime,9.2,1972
+8,The Shawshank Redemption,Drama,9.3,1994
+9,La La Land,Romance,8.0,2016
+10,The Matrix,Sci-Fi,8.7,1999

@@ -1,0 +1,4 @@
+Hello, my name is Muhammad Hamza. 
+I am currently pursuing a BS in Data Science from Emerson University, Multan. 
+I am passionate about machine learning, deep learning, and data-driven problem solving. 
+My long-term goal is to be so good at coding and become an expert in Artificial Intelligence and Data Science
